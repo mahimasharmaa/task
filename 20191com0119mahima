@@ -21,10 +21,9 @@
         "id": "IPsRHI_pPnow"
       },
       "source": [
-        "#THE SPARK FOUNDATION INTERNSHIP\n",
         "#AIM : From the given ‘Iris’ dataset, predict the optimum number of clusters\n",
         "#and represent it visually.\n",
-        "# TASK-1 Prediction using Unsupervised ML\n",
+        "# TASK-> Prediction using Unsupervised ML\n",
         "#AUTHOR:mahimasharmaa\n"
       ]
     },
